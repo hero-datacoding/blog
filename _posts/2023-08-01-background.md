@@ -2,8 +2,8 @@
 title: "Who's writing here?"
 date: 2023-08-01
 ---
-...work in progress...
-
+<h2>...work in progress...</h2>
+<div>
 - titles acquired before this journey:
   
   B.Eng (Automotive Engineering)
@@ -26,3 +26,4 @@ Now participating in a Datascience Bootcamp
 - Webscraping / API Scraping / Document Scraping
 - tbd. - Machine Learning
 - tbd.
+</div>

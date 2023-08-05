@@ -7,7 +7,7 @@ date: 2023-08-01
 - titles acquired before this journey:
   
   B.Eng (Automotive Engineering)
-  
+  <table style="width: 100%; border: none;">
 - CAD/CAE focused
 - Additive Manufacturing (Buildupsimulation, Datapreparation and creation of Lightweight structures , Quality and Improvement)
 - Generative Design
@@ -20,18 +20,21 @@ date: 2023-08-01
 - ...
 - Photoshop, Illustrator, Indesign, Gimp,
 - various OS, Office pakets and other convenience tools n utilities
-
+  </table>
 
 Now participating in a Datascience Bootcamp
+<table style="width: 100%; border: none;">
 - Python
 - Data Analytics n Science
 - Data Pipelines
 - Webscraping / API Scraping / Document Scraping
 - tbd. - Machine Learning
 - tbd.
-
+</table>
+<table style="width: 100%; border: none;">
 Other interests:
 
 - Music
 - Generative Art
+</table>
 </div>

@@ -49,25 +49,6 @@ date: 2023-08-01
       </p>
     </td>
   </table>
-  <table style="width: 100%; border: none;">
-    <td style="width: 100%; text-align: left; border: none;">
-    <p class="justify"></p>
-        
-        
-<p class="justify">
-</p>
-
-<p class="justify">
-</p>
-
-<p class="justify">
-</p>
-
-<p class="justify">
-</p>
-
-</td>
-</table>
 
 <h5>Now participating in a Datascience Bootcamp</h5>
  <table style="width: 100%; border: none;">

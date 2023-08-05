@@ -6,7 +6,7 @@ date: 2023-08-01
 <div>
 <h5>titles acquired before this journey:</h5>
   
-  B.Eng (Automotive Engineering)
+<h5>B.Eng (Automotive Engineering)</h5>
 
   
    <table style="width: 100%; border: none;">
@@ -69,7 +69,7 @@ date: 2023-08-01
 </td>
 </table>
 
-Now participating in a Datascience Bootcamp
+<h5>Now participating in a Datascience Bootcamp</h5>
  <table style="width: 100%; border: none;">
     <td style="width: 100%; text-align: left; border: none;">
  <p class="left">
@@ -90,11 +90,21 @@ Now participating in a Datascience Bootcamp
     <p class="left">
 - tbd.
       </p>
+    </td>      
 </table>
-<table style="width: 100%; border: none;">
-Other interests:
 
+<h5>Other interests:</h5>
+<table style="width: 100%; border: none;">
+    <td style="width: 100%; text-align: left; border: none;">
+ <p class="left">
 - Music
+    </p>
+    <p class="left">
 - Generative Art
+       </p>
+    <p class="left">
+- ...
+    </p>
+</td>
 </table>
 </div>

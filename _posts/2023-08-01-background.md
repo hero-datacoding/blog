@@ -8,6 +8,7 @@ date: 2023-08-01
   
   B.Eng (Automotive Engineering)
   <table style="width: 100%; border: none;">
+ <p class="left">
 - CAD/CAE focused
 - Additive Manufacturing (Buildupsimulation, Datapreparation and creation of Lightweight structures , Quality and Improvement)
 - Generative Design
@@ -20,6 +21,7 @@ date: 2023-08-01
 - ...
 - Photoshop, Illustrator, Indesign, Gimp,
 - various OS, Office pakets and other convenience tools n utilities
+  </p>
   </table>
 
 Now participating in a Datascience Bootcamp

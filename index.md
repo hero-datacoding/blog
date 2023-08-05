@@ -1,4 +1,4 @@
 ---
-title: Blogsite about my journey as Datascientist/engineer
+title: My Journey as a Datascientist/engineer
 ---
 

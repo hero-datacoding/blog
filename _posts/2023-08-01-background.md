@@ -29,4 +29,9 @@ Now participating in a Datascience Bootcamp
 - Webscraping / API Scraping / Document Scraping
 - tbd. - Machine Learning
 - tbd.
+
+Other interests:
+
+- Music
+- Generative Art
 </div>

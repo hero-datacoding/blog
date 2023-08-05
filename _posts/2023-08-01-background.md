@@ -13,10 +13,13 @@ date: 2023-08-01
 - Generative Design
 - Iterative Design
 - Virtual Product Development
-- Catia, Siemens NX, Autodesk, several Simulation Software and several other tools n utilities
-- Blender
+- Catia, Siemens NX, Autodesk, several Calculation&Simulation Software and other tools n utilities
 - Grasshopper (Rhinoceros)
 - Coding basics in various C based languages
+- Blender
+- ...
+- Photoshop, Illustrator, Indesign, Gimp,
+- various OS, Office pakets and other convenience tools n utilities
 
 
 Now participating in a Datascience Bootcamp

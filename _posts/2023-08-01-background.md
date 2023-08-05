@@ -4,9 +4,11 @@ date: 2023-08-01
 ---
 <h2>...work in progress...</h2>
 <div>
-- titles acquired before this journey:
+<h5>titles acquired before this journey:</h5>
   
   B.Eng (Automotive Engineering)
+
+  
    <table style="width: 100%; border: none;">
     <td style="width: 100%; text-align: left; border: none;">
  <p class="left">
@@ -45,8 +47,6 @@ date: 2023-08-01
     <p class="left">
 - various OS, Office pakets and other convenience tools n utilities
       </p>
-    <p class="left">
-  </p>
     </td>
   </table>
   <table style="width: 100%; border: none;">
@@ -70,13 +70,26 @@ date: 2023-08-01
 </table>
 
 Now participating in a Datascience Bootcamp
-<table style="width: 100%; border: none;">
+ <table style="width: 100%; border: none;">
+    <td style="width: 100%; text-align: left; border: none;">
+ <p class="left">
 - Python
+   </p>
+    <p class="left">
 - Data Analytics n Science
+      </p>
+    <p class="left">
 - Data Pipelines
+      </p>
+    <p class="left">
 - Webscraping / API Scraping / Document Scraping
+      </p>
+    <p class="left">
 - tbd. - Machine Learning
+      </p>
+    <p class="left">
 - tbd.
+      </p>
 </table>
 <table style="width: 100%; border: none;">
 Other interests:
